@@ -8,7 +8,7 @@ All READMEs for this class should have the following sections:
 
 What is this repo for?
 
-Whose repo is it? Who is contributing to it?
+MY REPO MTM
 
 ## Data and file information
 
